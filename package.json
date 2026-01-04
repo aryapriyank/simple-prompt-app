@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "openai": "^6.15.0"
+  },
+  "name": "simple-prompt-app",
+  "version": "1.0.0",
+  "description": "A basic prompt app using OpenAI",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryapriyank/simple-prompt-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/aryapriyank/simple-prompt-app/issues"
+  },
+  "homepage": "https://github.com/aryapriyank/simple-prompt-app#readme"
+}
